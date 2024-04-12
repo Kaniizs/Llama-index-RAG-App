@@ -1,7 +1,3 @@
-This is for Assignment 14 : Assignment: JavaScript RAG Web App with LlamaIndex
-Develop the JavaScript RAG full-stack Web App with LlamaIndex.
-
-Your application should be able to receive questions and provide appropriate answers in English about the admission information to the Software and Knowledge Engineering Degree Program of Kasetsart University of 2025 (TCAS 2567).
 This is a [LlamaIndex](https://www.llamaindex.ai/) project using [Next.js](https://nextjs.org/) bootstrapped with [`create-llama`](https://github.com/run-llama/LlamaIndexTS/tree/main/packages/create-llama).
 
 ## Getting Started
